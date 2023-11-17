@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          React app on Vercel
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
